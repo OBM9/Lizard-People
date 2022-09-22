@@ -28,7 +28,7 @@
       <label>Upload a profile picture: <input type="file" name="file"/></label>
       <label>Input your age (years): <input type="number" min="13" max="120" name="age"/></label>
       <label>How did you hear about us?
-      <select>
+      <select name="referrer">
         <option value="">(select one)</option>
         <option value="1">freeCodeCamp News</option>
         <option value="2">freeCodeCamp YouTube Channel</option>
@@ -37,7 +37,7 @@
       </select>
       </label>
       <label>Provide a bio:
-      <textarea rows="3" cols="30" placeholder="I like coding on the beach..."></textarea>  
+      <textarea rows="3" cols="30" placeholder="I like coding on the beach..." name="bio"></textarea>  
     </label>    
     </fieldset>
     <input type="Submit" value="Submit">  
