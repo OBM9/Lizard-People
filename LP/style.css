@@ -40,5 +40,5 @@ input, textarea, select {
 }
 input, textarea {
   background-color: #0a0a23;
-  border:#0a0a23;
+  border:1 px solid #0a0a23;
 }
