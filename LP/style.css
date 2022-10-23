@@ -51,4 +51,5 @@ input[type="submit"] {
   height: 2em;
   font-size: 1.1em; 
   background-color: #3b3b4f;
+  border-color: white;
 }
