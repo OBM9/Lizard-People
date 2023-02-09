@@ -1,7 +1,7 @@
 h1 {
   border-top-style:dotted;
   border-bottom: dotted;
-  border-style:double;
+  border-left-style:double;
 }
 p {
   border-style:outset;
