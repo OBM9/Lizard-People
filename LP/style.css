@@ -1,9 +1,9 @@
 h1 {
   border-top-style:dotted;
   border-bottom: dotted;
-  border-left-style:double;
-  
+  border-left-style:double;  
 }
+
 p {
   border-style:outset;
   border-width: 5px;
