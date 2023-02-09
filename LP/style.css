@@ -3,6 +3,7 @@ h1 {
   border-bottom-style: dotted;
   border-left-style:double; 
   border-left-width:10px; 
+  border-left-color: silver;
 }
 
 p {
