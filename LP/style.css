@@ -1,5 +1,5 @@
 p {
-  border-style:solid;
+  border-style:outset;
   border-width: 5px;
   border-color:goldenrod;
 }
