@@ -1,3 +1,6 @@
+body {
+  border:2px solid;
+}
 #Box1 {
   border:5px solid;
   width: 250px;
