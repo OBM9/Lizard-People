@@ -1,3 +1,5 @@
 #Box1 {
-  border:5px dotted;
+  border:5px solid;
+  width: 250px;
+  height: 250px;
 }
