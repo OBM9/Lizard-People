@@ -9,11 +9,9 @@ h1 {
   font-size: 3rem;
   padding:0.5em;
 }
-main {
+p {
   width: 50vw;
   background-color: aqua;
   font-size: 2rem;
 }
-p {
-  font-size: 2rem;
-}
+
