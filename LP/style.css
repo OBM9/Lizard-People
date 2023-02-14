@@ -1,5 +1,6 @@
 h1 {
-  border: 2px blue solid;  
+  border: 2px blue dotted; 
+   
 }
 p {
   font-size: 22px;
