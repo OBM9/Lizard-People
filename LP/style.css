@@ -4,13 +4,13 @@
   box-sizing: border-box;
 }
 h1 {
-  border: 2px blue dotted; 
+  border: 2px red dotted; 
   margin:1.5rem;  
   font-size: 3rem;
   padding:0.5em;
 }
 p {
-  border:2px blue dotted; 
+  border:2px red dotted; 
   margin: 1.5rem; 
   background-color:skyblue;
   font-size: 2rem;
