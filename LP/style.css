@@ -4,8 +4,7 @@
   box-sizing: border-box;
 }
 h1 {
-  border: 2px blue dotted; 
-  width: 50%; 
+  border: 2px blue dotted;   
   font-size: 3rem;
   padding:0.5em;
 }
