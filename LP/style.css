@@ -10,7 +10,7 @@ h1 {
   padding:0.5em;
 }
 p {
-  border:2px red dotted; 
+  border:2px red solid; 
   margin: 1.5rem; 
   background-color:skyblue;
   font-size: 2rem;
