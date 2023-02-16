@@ -9,8 +9,7 @@ h1 {
   padding:0.5em;
 }
 p {
-  border:2px blue dotted;
-  width: 50vw;
+  border:2px blue dotted;  
   background-color:skyblue;
   font-size: 2rem;
 }
