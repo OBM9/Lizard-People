@@ -16,5 +16,6 @@ p {
   padding:1.5em;
   background-color:skyblue;
   font-size: 2rem;
+  outline-offset: 5px solid green;
 }
 
