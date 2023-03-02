@@ -13,8 +13,7 @@ h1 {
 p {
   border:5px red double; 
   margin: 1.5rem; 
-  padding:1.5em;
-  background-color:skyblue;
+  padding:1.5em;  
   font-size: 2rem;
   outline-offset: 10px solid green;
 }
